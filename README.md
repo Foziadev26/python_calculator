@@ -9,6 +9,7 @@ A simple command-line calculator built with Python as a beginner practice projec
 - Multiplication (`*`)
 - Division (`/`)
 - Modulus (`%`)
+- Power operation (`**`)
 - Decimal number support using `float()`
 - Division by zero handling
 - Invalid number handling using `try-except`
@@ -50,8 +51,6 @@ Please enter a operator (+,-,*,/,%) +
 - Error handling with `try-except`
 
 ## Future Improvements
-
-- Power operation
 - Repeat calculations using loops
 - Improved input validation
 
